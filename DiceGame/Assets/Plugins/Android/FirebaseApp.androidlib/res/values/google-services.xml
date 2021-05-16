@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="gcm_defaultSenderId" translatable="false">816723830000</string>
+  <string name="google_storage_bucket" translatable="false">ultra-complex-311215.appspot.com</string>
+  <string name="project_id" translatable="false">ultra-complex-311215</string>
+  <string name="google_api_key" translatable="false">AIzaSyCvlwbzguCCV-3w4V8UDsePHhEp8Fi9Auo</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCvlwbzguCCV-3w4V8UDsePHhEp8Fi9Auo</string>
+  <string name="google_app_id" translatable="false">1:816723830000:android:3fbf09201166a34b654e35</string>
+  <string name="default_web_client_id" translatable="false">816723830000-ttvt7k5k9ftg6fdv1gh4mlt9f49n8r17.apps.googleusercontent.com</string>
+</resources>

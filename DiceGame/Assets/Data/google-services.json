@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816723830000",
+    "project_id": "ultra-complex-311215",
+    "storage_bucket": "ultra-complex-311215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816723830000:android:3fbf09201166a34b654e35",
+        "android_client_info": {
+          "package_name": "com.google.firebase.dice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816723830000-ttvt7k5k9ftg6fdv1gh4mlt9f49n8r17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvlwbzguCCV-3w4V8UDsePHhEp8Fi9Auo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816723830000-ttvt7k5k9ftg6fdv1gh4mlt9f49n8r17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
